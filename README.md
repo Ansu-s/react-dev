@@ -11,4 +11,7 @@
 
 ![image](https://github.com/Ansu-s/react-dev/assets/130679461/c7058350-b811-424b-ace3-2d3b8d3ce173)
 
+![image](https://github.com/Ansu-s/react-dev/assets/130679461/48fb14b0-3b8f-4e7c-b285-f7d7c97bdb76)  
+
+![image](https://github.com/Ansu-s/react-dev/assets/130679461/1c2ff5db-262d-4330-9695-318878521aba)
 
