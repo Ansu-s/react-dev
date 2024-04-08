@@ -15,3 +15,7 @@
 
 ![image](https://github.com/Ansu-s/react-dev/assets/130679461/1c2ff5db-262d-4330-9695-318878521aba)
 
+### Darkmode and whitemode toggle using state
+![image](https://github.com/Ansu-s/react-dev/assets/130679461/75059c45-272a-4e52-aeef-81bb9f863adf)  
+
+![image](https://github.com/Ansu-s/react-dev/assets/130679461/0c1f2252-b5e7-4451-aa89-357c382e4818)
