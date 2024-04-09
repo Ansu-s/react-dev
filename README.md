@@ -19,3 +19,6 @@
 ![image](https://github.com/Ansu-s/react-dev/assets/130679461/75059c45-272a-4e52-aeef-81bb9f863adf)  
 
 ![image](https://github.com/Ansu-s/react-dev/assets/130679461/0c1f2252-b5e7-4451-aa89-357c382e4818)
+## Alerts
+![image](https://github.com/Ansu-s/react-dev/assets/130679461/604e40a0-2ae4-4d92-ad25-310858b1da3e)
+
