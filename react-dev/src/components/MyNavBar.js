@@ -8,10 +8,10 @@ export default function MyNavBar() {
           <Nav.Link href="/home">Home</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link href="/user">Users</Nav.Link>
+          <Nav.Link href="/users">Users</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link href="/org">Organisation</Nav.Link>
+          <Nav.Link href="/text">Organisation</Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link eventKey="link-1">About</Nav.Link>

@@ -11,6 +11,7 @@ export default function TextiInputForm() {
 console.log("You have clicked on the button" + text);
 let uppercaseText = text.toUpperCase();
 updateText(uppercaseText)
+document.title= "Uppercase text gen"
 };
 const DonwclickHandler = ()=>{
   console.log("You have clicked on the button" + text);
