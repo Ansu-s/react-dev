@@ -2,6 +2,7 @@
 import React, { useState } from 'react'
 import Accordion from 'react-bootstrap/Accordion';
 import Button from 'react-bootstrap/Button';
+import { NavLink } from 'react-router-dom';
 export default function About() {
 const [darkStyle, updateStyle] = useState({
      color: "white",
