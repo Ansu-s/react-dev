@@ -20,5 +20,8 @@
 
 ![image](https://github.com/Ansu-s/react-dev/assets/130679461/0c1f2252-b5e7-4451-aa89-357c382e4818)
 ## Alerts
-![image](https://github.com/Ansu-s/react-dev/assets/130679461/604e40a0-2ae4-4d92-ad25-310858b1da3e)
+![image](https://github.com/Ansu-s/react-dev/assets/130679461/604e40a0-2ae4-4d92-ad25-310858b1da3e)  
+## Class based components  
+![image](https://github.com/learning-project-01/bookstore-app/assets/130679461/ce99ef8b-b3d0-4af2-afe9-379319bc12b0)
+
 
